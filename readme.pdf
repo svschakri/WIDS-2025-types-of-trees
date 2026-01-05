@@ -1,0 +1,44 @@
+1) general definations on trees like leaf,parent,leftchild,rightchild,etc..
+2) week2 :
+          Tree Walks
+          Preorder
+          Postorder
+          Inorder
+          BST
+          BST algorithms :
+                            searching
+                            insert
+                            delete
+                            minimum
+                            maximum
+                            successor
+                            predecessor
+          Heap :
+                priorty queue
+                partial sorting
+                maximum
+                height of heap
+                sorting
+                insert 
+                fix heap
+                heapify
+                delete max
+                heapsort
+        14 leetcode problems
+3) week3 :
+          RBT :
+                insert
+                black height
+                maximum
+                minimum
+                maximum
+                delete
+          AVL : 
+                height
+                insert
+                delete
+                rebalancing
+         written 4 functions in rb.cpp in this repo in rb folder
+                
+                        
+          
